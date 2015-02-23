@@ -1,4 +1,4 @@
-BlueCopter - Arduino Quadcopter
+BlueCopter - Arduino Quadcopte
 ==========
 This is a simple arduino quadcopter firmware that uses the ADXL345, L3G4200D (part of the cheap chinese IMU) to maintain a stable flight. 
 
